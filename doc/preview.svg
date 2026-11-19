@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<rect width="860" height="300" rx="18" fill="#F7F7FB"/>
+<text x="60" y="60" font-size="15" fill="#1C1C28" font-weight="600" text-anchor="start">Fleet status</text>
+<clipPath id="c60"><rect x="60" y="74" width="740" height="14" rx="7"/></clipPath><g clip-path="url(#c60)">
+<rect x="60" y="74" width="740" height="14" rx="0" fill="#E9E9F2" stroke="none" stroke-width="1" />
+<rect x="60" y="74" width="445.5652173913044" height="14" rx="0" fill="#16A34A" stroke="none" stroke-width="1" />
+<rect x="509.5652173913044" y="74" width="190.95652173913044" height="14" rx="0" fill="#F59E0B" stroke="none" stroke-width="1" />
+<rect x="704.5217391304348" y="74" width="95.47826086956522" height="14" rx="0" fill="#DC2626" stroke="none" stroke-width="1" />
+</g>
+<rect x="60" y="104" width="10" height="10" rx="3" fill="#16A34A" stroke="none" stroke-width="1" />
+<text x="76" y="114" font-size="13" fill="#55556A" font-weight="400" text-anchor="start">Moving · 61%</text>
+<rect x="186.4" y="104" width="10" height="10" rx="3" fill="#F59E0B" stroke="none" stroke-width="1" />
+<text x="202.4" y="114" font-size="13" fill="#55556A" font-weight="400" text-anchor="start">Idle · 26%</text>
+<rect x="298.4" y="104" width="10" height="10" rx="3" fill="#DC2626" stroke="none" stroke-width="1" />
+<text x="314.4" y="114" font-size="13" fill="#55556A" font-weight="400" text-anchor="start">Offline · 13%</text>
+<text x="60" y="170" font-size="15" fill="#1C1C28" font-weight="600" text-anchor="start">Storage (of 128 GB)</text>
+<clipPath id="c170"><rect x="60" y="184" width="740" height="14" rx="7"/></clipPath><g clip-path="url(#c170)">
+<rect x="60" y="184" width="740" height="14" rx="0" fill="#E9E9F2" stroke="none" stroke-width="1" />
+<rect x="60" y="184" width="228.75" height="14" rx="0" fill="#4F46E5" stroke="none" stroke-width="1" />
+<rect x="292.75" y="184" width="125.8125" height="14" rx="0" fill="#12A594" stroke="none" stroke-width="1" />
+<rect x="422.5625" y="184" width="68.625" height="14" rx="0" fill="#D97706" stroke="none" stroke-width="1" />
+</g>
+<rect x="60" y="214" width="10" height="10" rx="3" fill="#4F46E5" stroke="none" stroke-width="1" />
+<text x="76" y="224" font-size="13" fill="#55556A" font-weight="400" text-anchor="start">Videos · 40 GB · 54%</text>
+<rect x="244.0" y="214" width="10" height="10" rx="3" fill="#12A594" stroke="none" stroke-width="1" />
+<text x="260.0" y="224" font-size="13" fill="#55556A" font-weight="400" text-anchor="start">Photos · 22 GB · 30%</text>
+<rect x="428.0" y="214" width="10" height="10" rx="3" fill="#D97706" stroke="none" stroke-width="1" />
+<text x="444.0" y="224" font-size="13" fill="#55556A" font-weight="400" text-anchor="start">Apps · 12 GB · 16%</text>
+</svg>

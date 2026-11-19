@@ -1,0 +1,18 @@
+name: segmented_bar_lite_example
+description: Demo app for the segmented_bar_lite package.
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  segmented_bar_lite:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
